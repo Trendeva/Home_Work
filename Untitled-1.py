@@ -272,3 +272,4 @@ if __name__ == "__main__":
         plt.show()
     except ImportError:
         pass
+print('Мяу-мяу 2.0 КОНЕЦ')
