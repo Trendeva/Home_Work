@@ -1,6 +1,7 @@
 """
 Библиотека для градиентного спуска с метрикой SMAPE.
 Вариант 2: SMAPE (Symmetric Mean Absolute Percentage Error)
+сейчас должно быть обновление
 """
 
 import numpy as np
@@ -272,3 +273,9 @@ if __name__ == "__main__":
         plt.show()
     except ImportError:
         pass
+
+
+
+
+
+    #привет деффчонки
